@@ -376,10 +376,3 @@ Nội dung này tương ứng với cấu trúc của tài liệu phân tích v�
 
 Dự án được thực hiện phục vụ mục đích **học tập, nghiên cứu và phân tích thiết kế hệ thống**.
 
----
-
-<p align="center">
-  <b>🏯 Hệ thống Cơ sở dữ liệu Du lịch Huế</b>
-  <br>
-  <i>Chuẩn hóa dữ liệu — Kết nối hệ thống — Phát triển du lịch thông minh</i>
-</p>
